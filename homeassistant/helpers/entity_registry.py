@@ -971,6 +971,7 @@ class EntityRegistry(BaseRegistry):
             ("device_id", device_id),
             ("disabled_by", disabled_by),
             ("entity_category", entity_category),
+            ("entity_id", entity_id),
             ("hidden_by", hidden_by),
             ("icon", icon),
             ("has_entity_name", has_entity_name),
